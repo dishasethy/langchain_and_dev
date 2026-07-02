@@ -56,7 +56,7 @@ export default function Home() {
         <header className="text-center mb-10">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-violet-500/10 border border-violet-500/20 text-violet-400 text-xs font-semibold uppercase tracking-wider mb-4 animate-pulse">
             <span className="w-2 h-2 rounded-full bg-violet-400"></span>
-            Basics.ipynb Pipeline
+            Messages.ipynb Pipeline
           </div>
           <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight bg-gradient-to-r from-violet-400 via-fuchsia-400 to-cyan-400 bg-clip-text text-transparent mb-3 leading-tight">
             Jupyter Joke Agent
@@ -125,7 +125,7 @@ export default function Home() {
                 <span className="w-2.5 h-2.5 bg-fuchsia-500 rounded-full animate-bounce" style={{ animationDelay: "150ms" }}></span>
                 <span className="w-2.5 h-2.5 bg-cyan-500 rounded-full animate-bounce" style={{ animationDelay: "300ms" }}></span>
               </div>
-              <p className="text-zinc-500 text-xs tracking-wider uppercase animate-pulse">Running basics.ipynb...</p>
+              <p className="text-zinc-500 text-xs tracking-wider uppercase animate-pulse">Running messages.ipynb...</p>
             </div>
           )}
 
