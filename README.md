@@ -1,4 +1,4 @@
-# Jupyter Joke Agent (LangChain + Next.js)
+# Joke Agent (LangChain + Next.js)
 
 A premium, interactive web application that connects a modern React/Next.js frontend directly with Jupyter Notebook code pipelines using LangChain and Google Gemini models.
 
